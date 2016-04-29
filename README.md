@@ -21,8 +21,18 @@ Your age, race, sex, weight, height, marital status, education level, politics, 
 <img src="http://hnetbrowser.tk/hnet/your-information-can-be-text.png" align="left"></img><img src="http://hnetbrowser.tk/hnet/There-are-dozens-of-data-text.png" align="right"></img>
 
 <hr>
+&nbsp;
+<br>
+<h1> How HNET Protects You </h1>
 <br>
 <h4>HNET Browser  |   we believe what you browse & search should always be private</h4>
+<hr>
+<img src="http://hnetbrowser.tk/hnet/default-private-browsing-content.png" align="middle">
+<br>&nbsp;<br>
+Note: HNET-Bowser is a beta version, so there are lot of features to add. At the moment, blind or a partially sighted users can’t use this software alone.
+
+
+
 
 
 
