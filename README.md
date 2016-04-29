@@ -29,7 +29,7 @@ Your age, race, sex, weight, height, marital status, education level, politics, 
 <hr>
 <img src="http://hnetbrowser.tk/hnet/default-private-browsing-content.png" align="middle">
 <br>&nbsp;<br>
-Note: HNET-Bowser is a beta version, so there are lot of features to add. At the moment, blind or a partially sighted users can’t use this software alone.
+Note: HNET-Bowser is in beta version, so there are lot of features to add. At the moment, blind or a partially sighted users can’t use this software alone.
 
 
 
