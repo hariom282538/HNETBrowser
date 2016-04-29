@@ -20,6 +20,9 @@ Your age, race, sex, weight, height, marital status, education level, politics, 
 
 <img src="http://hnetbrowser.tk/hnet/your-information-can-be-text.png" align="left"></img><img src="http://hnetbrowser.tk/hnet/There-are-dozens-of-data-text.png" align="right"></img>
 
+<hr>
+<br>
+<h4>HNET Browser  |   we believe what you browse & search should always be private</h4>
 
 
 
